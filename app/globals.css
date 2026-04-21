@@ -17,6 +17,7 @@ body {
 
 .app h1 {
   margin: 0 0 24px;
+  font-size: 48px;
 }
 
 .new-issue {
