@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bun run dev)",
+      "Bash(bun run build)",
+      "Bash(bun run start)",
+      "Bash(bun run typecheck)",
+      "Bash(bun install)",
+      "Bash(npm run *)",
+      "Bash(git status *)",
+      "Bash(git log *)",
+      "Bash(git diff *)",
+      "Bash(git show *)",
+      "Bash(git branch *)",
+      "Bash(rg *)",
+      "Bash(ls *)",
+      "Bash(cat *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(pwd)",
+      "Bash(dir *)",
+      "Bash(type *)",
+      "Bash(where *)"
+    ]
+  }
+}
